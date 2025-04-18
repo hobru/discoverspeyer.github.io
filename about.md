@@ -1,11 +1,11 @@
 ---
 title: 2000 Jahre von Speyer in 20 Sekunden
-feature_image: "/images/Logo.jpg"
+feature_image: "/discoverspeyer.github.io/images/Logo.jpg"
 
 ---
 
 
-![Zeitstrahl](/images/Zeitstrahl.jpg)
+![Zeitstrahl](/discoverspeyer.github.io/images/Zeitstrahl.jpg)
 
 * Speyer wird 10 v.Chr. als Noviomagus gegründet.
 * Um 614 wird zum ersten Mal der Name Spira verwendet
