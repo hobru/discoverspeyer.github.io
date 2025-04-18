@@ -190,7 +190,6 @@ PLATFORMS
   arm-linux-gnueabihf
   arm-linux-musl
   arm-linux-musleabihf
-  arm64-darwin
   x64-mingw-ucrt
   x86_64-darwin
   x86_64-linux
@@ -212,3 +211,4 @@ DEPENDENCIES
 
 BUNDLED WITH
    2.6.8
+
