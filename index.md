@@ -1,6 +1,6 @@
 ---
 title: Welcome to 'Discover Speyer'
-feature_image: "/images/Logo.jpg"
+feature_image: "/discoverspeyer.github.io/images/Logo.jpg"
 feature_text: |
   ## 
 ---
