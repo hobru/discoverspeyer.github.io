@@ -21,7 +21,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://hobru.github.io/discoverspeyer.github.io'
+url: 'https://www.discoverspeyer.de'
 baseurl: ''
 title: 'Discover Speyer'
 description: 'This is my new website'
