@@ -17,3 +17,7 @@ feature_image: "/images/Logo.jpg"
 * 1816 wird Speyer Kreishauptstadt und Regierungssitz des bayerischen Rheinkreises
 * 1991 wird das Technikmuseum in Speyer gegründet, das heute eine Boing 747 und die größte Weltraumaustellung in Europa beherbergt.
 
+
+
+## Follow us on Instagram
+[![Walking with Loki](/images/WalkingWithLoki.jpg)](https://www.instagram.com/walkingwithloki/)

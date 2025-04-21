@@ -2,7 +2,7 @@
 title: Welcome to 'Discover Speyer'
 feature_image: "/images/Logo.jpg"
 feature_text: |
-  ## 
+  
 ---
 
 Individuelle Stadtführungen durch Speyer: Ob Dom, Judenhof oder Dreifaltigkeitskirche, Speyer hat viel zu bieten. Auf einem kurzen Spaziergang gibt es neben den zwei UNESCO Weltkulturerben auch viel über die 2000 Jahre Speyrer Geschichte zu erfahren.

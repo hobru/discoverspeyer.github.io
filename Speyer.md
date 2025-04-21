@@ -5,22 +5,22 @@ feature_image: "/images/Logo.jpg"
 
 ## Dom - Westseite
 ### Fassade
-![Fassade](/images/20240319_175130.jpg)
+[[![Fassade](/images/20240319_175130%20(Small).jpg)](/images/20240319_175130.jpg)](/images/20240319_175130.jpg)
 
 ### Evangelisten
-![Evangelisten](/images/20231230_150947.jpg)
+[![Evangelisten](/images/20231230_150947%20(Small).jpg)](/images/20231230_150947.jpg)
 
 ### Maria & Co
-![Maria & Co](/images/20231230_150940.jpg)
+[![Maria & Co](/images/20231230_150940%20(Small).jpg)](/images/20231230_150940.jpg)
 
 ### Brezelbub
-![Brezelbug](/images/20231230_151010.jpg)
+[![Brezelbug](/images/20231230_151010%20(Small).jpg)](/images/20231230_151010.jpg)
 
 ### Todsünden
-![Todsünden](/images/20231230_151055.jpg)
+[![Todsünden](/images/20231230_151055%20(Small).jpg)](/images/20231230_151055.jpg)
 
 ### Domnapf
-![Domnapf](/images/20240303_163139.jpg)
+[![Domnapf](/images/20240303_163139%20(Small).jpg)](/images/20240303_163139.jpg)
 
 ## Dom - Südseite
 ### Speyer 2
@@ -32,28 +32,28 @@ feature_image: "/images/Logo.jpg"
 
 ## Dom - Ostseite
 ### Okulus
-![Okulus](/images/20211107_165047.jpg)
+[![Okulus](/images/20211107_165047%20(Small).jpg)](/images/20211107_165047.jpg)
 
 ### Trommelrelief
-![Trommelrelief](/images/P1110705%20(1).jpg)
+[![Trommelrelief](/images/P1110705%20(1)%20(Small).jpg)](/images/P1110705%20(1).jpg)
 
 ## Heidenmauer
-![Heidenmauer](/images/20240225_131543.jpg)
+[![Heidenmauer](/images/20240225_131543%20(Small).jpg)](/images/20240225_131543.jpg)
 
 ## Dom - Nordseite
 ### Bauphasen
 ### Afrakapelle
-![Afrakapelle](/images/20211107_165452.jpg)
+[![Afrakapelle](/images/20211107_165452%20(Small).jpg)](/images/20211107_165452.jpg)
 
 ## Judenbad
 ### Weisen von Speyer
-![Weisden von Speyer](/images/20240530_115624937_iOS.jpg)
+[![Weisden von Speyer](/images/20240530_115624937_iOS%20(Small).jpg)](/images/20240530_115624937_iOS.jpg)
 
 ### Synagoge
-![Synagoge](/images/20240330_150140.jpg)
+[![Synagoge](/images/20240330_150140%20(Small).jpg)](/images/20240330_150140.jpg)
 
 ### Frauenschule
-![Frauenschule](/images/20240330_150138.jpg)
+[![Frauenschule](/images/20240330_150138%20(Small).jpg)](/images/20240330_150138.jpg)
 
 ### Mikwe
 
