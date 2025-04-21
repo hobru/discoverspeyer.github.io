@@ -1,5 +1,5 @@
 ---
-title: Discover Speyer - Stadtrundgang
+title: 2000 Jahre Speyer in 20 Sekunden
 feature_image: "/images/Logo.jpg"
 ---
 
