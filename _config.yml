@@ -45,6 +45,8 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
+- title: Impressum
+  url: /impressum/
 - title: Back to top
   url: "#top"
 
