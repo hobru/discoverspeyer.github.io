@@ -3,7 +3,6 @@ title: 2000 Jahre Speyer in 20 Sekunden
 feature_image: "/images/Logo.jpg"
 ---
 
-# 2000 Jahre Speyer in 20 Sekunden
 ![Zeitstrahl](/images/Zeitstrahl.jpg)
 
 * Speyer wird 10 v.Chr. als Noviomagus gegründet.

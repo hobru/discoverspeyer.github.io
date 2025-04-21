@@ -3,7 +3,7 @@ title: About
 feature_image: "/images/Logo.jpg"
 
 ---
-[!Speyer Dom](/images/Screenshot-2024-11-04-141820.png)
+![Speyer Dom](/images/Screenshot-2024-11-04-141820.png)
 
 Auf diesen Seiten können Sie Informationen rund um Speyer finden. Falls Sie schon bei einer Führung dabei waren, finden Sie hier einige Bilder, die Sie hoffentlich an unsere schöne Stadt erinnern. 
 
