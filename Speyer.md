@@ -5,7 +5,7 @@ feature_image: "/images/Logo.jpg"
 
 ## Dom - Westseite
 ### Fassade
-[[![Fassade](/images/20240319_175130%20(Small).jpg)](/images/20240319_175130.jpg)](/images/20240319_175130.jpg)
+[![Fassade](/images/20240319_175130%20(Small).jpg)](/images/20240319_175130.jpg)
 
 ### Evangelisten
 [![Evangelisten](/images/20231230_150947%20(Small).jpg)](/images/20231230_150947.jpg)
