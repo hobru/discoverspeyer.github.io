@@ -36,21 +36,17 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: Speyer
+- title: Speyer - Highlights
   url: /Speyer/
 - title: Blog
   url: /blog/
+- title: Impressum
+  url: /impressum/
 - title: About
   url: /about/
 
 # Footer nav
 navigation_footer:
-- title: Impressum3
-  url: "#top"
-- title: Impressum2
-  url: "/impressum/"
-- title: Impressum
-  url: /impressum/
 - title: Back to top
   url: "#top"
 
