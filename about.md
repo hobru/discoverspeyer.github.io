@@ -7,7 +7,8 @@ feature_image: "/images/Logo.jpg"
 
 Auf diesen Seiten können Sie Informationen rund um Speyer finden. Falls Sie schon bei einer Führung dabei waren, finden Sie hier einige Bilder, die Sie hoffentlich an unsere schöne Stadt erinnern. 
 
-Wenn Sie in Kontakt bleiben wollen, merken Sie sich diese Seite oder folgen Sie mir auf 
+Wenn Sie in Kontakt bleiben wollen, merken Sie sich diese Seite oder folgen Sie mir auf
+* [Email](mailto:speyer@bruchelt.de) 
 * [LinkedIn](https://de.linkedin.com/in/holger-bruchelt)
 * [Instgram](https://www.instagram.com/walkingwithloki/)
 * [GitHub](https://github.com/hobru)

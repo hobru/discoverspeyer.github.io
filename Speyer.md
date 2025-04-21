@@ -18,16 +18,30 @@ feature_image: "/images/Logo.jpg"
 # Stadtrundgang
 
 ## Dom - Westseite
-### Fassade
+### Fassade des Doms
 [![Fassade](/images/20240319_175130%20(Small).jpg)](/images/20240319_175130.jpg)
 
 ### Evangelisten
+* Matthäus wird durch einen Engel symbolisiert.
+* Markus wird durch einen Löwen dargestellt.
+* Lukas wird durch einen Stier repräsentiert.
+* Johannes wird durch einen Adler symbolisiert
+
 [![Evangelisten](/images/20231230_150947%20(Small).jpg)](/images/20231230_150947.jpg)
 
-### Maria & Co
+
+### Fünf Schutzpatrone 
+* Hl. Stephanus
+* Erzengel Michael
+* Hl Mutter Maria
+* Johannes der Täufer 
+* Bernard von Clairvaux
+
 [![Maria & Co](/images/20231230_150940%20(Small).jpg)](/images/20231230_150940.jpg)
 
 ### Brezelbub
+* Der Brezelbug, auch bekannt als "Brezelferdinand"
+
 [![Brezelbug](/images/20231230_151010%20(Small).jpg)](/images/20231230_151010.jpg)
 
 ### Todsünden
@@ -52,6 +66,8 @@ feature_image: "/images/Logo.jpg"
 [![Trommelrelief](/images/P1110705%20(1)%20(Small).jpg)](/images/P1110705%20(1).jpg)
 
 ## Heidenmauer
+* Hier lebte der Legende nach der Riese Olp :-)
+
 [![Heidenmauer](/images/20240225_131543%20(Small).jpg)](/images/20240225_131543.jpg)
 
 ## Dom - Nordseite
