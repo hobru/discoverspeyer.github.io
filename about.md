@@ -17,3 +17,8 @@ Wenn Sie in Kontakt bleiben wollen, merken Sie sich diese Seite oder folgen Sie 
 ## Follow us on Instagram
 I walk a lot with our dog Loki through Speyer. Feel free to follow us for some additional impressions  
 [![Walking with Loki](/images/WalkingWithLoki.jpg)](https://www.instagram.com/walkingwithloki/)
+
+
+## YouTube Video 
+Speyer - das Zentrum einer attraktiven Region
+[![Speyer - das Zentrum einer attraktiven Region](/images/SpeyerYT.jpg)](https://www.youtube.com/watch?v=yVbUoq1ZhXA)

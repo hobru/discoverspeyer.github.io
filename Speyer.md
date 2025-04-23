@@ -19,13 +19,14 @@ feature_image: "/images/Logo.jpg"
 
 ## Dom - Westseite
 ### Fassade des Doms
+* Nach Plänen des Architekten Heinrich Hübsch 1854–58 wiederaufgebaut
 [![Fassade](/images/20240319_175130%20(Small).jpg)](/images/20240319_175130.jpg)
 
 ### Evangelisten
-* Matthäus wird durch einen Engel symbolisiert.
-* Markus wird durch einen Löwen dargestellt.
-* Lukas wird durch einen Stier repräsentiert.
 * Johannes wird durch einen Adler symbolisiert
+* Matthäus wird durch einen Engel symbolisiert.
+* Lukas wird durch einen Stier repräsentiert.
+* Markus wird durch einen Löwen dargestellt.
 
 [![Evangelisten](/images/20231230_150947%20(Small).jpg)](/images/20231230_150947.jpg)
 
@@ -86,8 +87,12 @@ feature_image: "/images/Logo.jpg"
 [![Frauenschule](/images/20240330_150138%20(Small).jpg)](/images/20240330_150138.jpg)
 
 ### Mikwe
+[![Judenhof](/images/Judenhof1%20(Small).jpg)](/images/Judenhof1.jpg)
 
 ## Dreifaltigkeitskirche
+Die Dreifaltigkeitskirche ist einer der schönsten Kirchen (von innen). Hier mit Jakobspilger von außen
+[![Dreifaltigkeitskirche](/images/DFK%20(Small).jpg)](/images/DFK.jpg)
+
 ### Retscherruine
 ### Läutturm
 ### Der Dom
