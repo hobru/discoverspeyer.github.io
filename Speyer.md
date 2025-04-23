@@ -1,10 +1,9 @@
 ---
-title: 2000 Jahre Speyer in 20 Sekunden
-feature_image: "/images/Logo.jpg"
+title: 2000 Jahre Speyer
+feature_image: "/images/Zeitstrahl.jpg"
 ---
 
-![Zeitstrahl](/images/Zeitstrahl.jpg)
-
+## 200 Jahre Speyer in 20 Sekunden
 * Speyer wird 10 v.Chr. als Noviomagus gegründet.
 * Um 614 wird zum ersten Mal der Name Spira verwendet
 * 1024 wird Konrad II zum König und 1027 zum Kaiser gekrönt. 1030 gilt als das Jahr in dem der Bau des Dom beginnt
