@@ -1,9 +1,9 @@
 ---
-title: 2000 Jahre Speyer
-feature_image: "/images/Zeitstrahl.jpg"
+title: 2000 Jahre Speyer in 20 Sekunden
+feature_image: "/images/ZeitstrahlS.jpg"
 ---
 
-## 200 Jahre Speyer in 20 Sekunden
+
 * Speyer wird 10 v.Chr. als Noviomagus gegründet.
 * Um 614 wird zum ersten Mal der Name Spira verwendet
 * 1024 wird Konrad II zum König und 1027 zum Kaiser gekrönt. 1030 gilt als das Jahr in dem der Bau des Dom beginnt
@@ -89,7 +89,8 @@ feature_image: "/images/Zeitstrahl.jpg"
 [![Judenhof](/images/Judenhof1%20(Small).jpg)](/images/Judenhof1.jpg)
 
 ## Dreifaltigkeitskirche
-Die Dreifaltigkeitskirche ist einer der schönsten Kirchen (von innen). Hier mit Jakobspilger von außen
+* Die Dreifaltigkeitskirche ist einer der schönsten Kirchen (von innen). Hier mit Jakobspilger von außen
+
 [![Dreifaltigkeitskirche](/images/DFK%20(Small).jpg)](/images/DFK.jpg)
 
 ### Retscherruine
