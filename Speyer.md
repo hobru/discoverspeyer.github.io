@@ -53,6 +53,8 @@ feature_image: "/images/ZeitstrahlS.jpg"
 ## Dom - Südseite
 ### Speyer 2
 ### Brandspuren 1689
+[![Domnapf](/images/Brandspuren%20(Small).jpg)](/images/Brandspuren.jpg)
+
 
 ### Ölberg
 
@@ -72,6 +74,8 @@ feature_image: "/images/ZeitstrahlS.jpg"
 
 ## Dom - Nordseite
 ### Bauphasen
+[![Domnordseite](/images/Domnordseite%20(Small).jpg)](/images/Domnordseite.jpg)
+
 ### Afrakapelle
 [![Afrakapelle](/images/20211107_165452%20(Small).jpg)](/images/20211107_165452.jpg)
 
@@ -87,6 +91,8 @@ feature_image: "/images/ZeitstrahlS.jpg"
 
 ### Mikwe
 [![Judenhof](/images/Judenhof1%20(Small).jpg)](/images/Judenhof1.jpg)
+[![Mikwe](/images/Mikwe1%20(Large).jpg)](/images/Mikwe1.jpg)
+[![Mikwe](/images/Mikwe2%20(Large).jpg)](/images/Mikwe2.jpg)
 
 ## Dreifaltigkeitskirche
 * Die Dreifaltigkeitskirche ist einer der schönsten Kirchen (von innen). Hier mit Jakobspilger von außen
@@ -94,7 +100,13 @@ feature_image: "/images/ZeitstrahlS.jpg"
 [![Dreifaltigkeitskirche](/images/DFK%20(Small).jpg)](/images/DFK.jpg)
 
 ### Retscherruine
+* "Steinreich"
+
+[![Retscherruine](/images/Retscherruine%20(Small).jpg)](/images/Retscherruine.jpg)
+
 ### Läutturm
+[![St. Georgen Turm](/images/StGeorgenTurm%20(Small).jpg)](/images/StGeorgenTurm.jpg)
+
 ### Der Dom
 ### Bilderbibel
 ### Orgel
