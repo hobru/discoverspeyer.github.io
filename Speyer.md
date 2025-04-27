@@ -57,6 +57,7 @@ feature_image: "/images/ZeitstrahlS.jpg"
 
 
 ### Ölberg
+[![Ölberg](/images/Oelberg%20(Small).jpg)](/images/Oelberg.jpg)
 
 ### Osttürme
 
