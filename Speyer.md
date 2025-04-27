@@ -100,6 +100,8 @@ feature_image: "/images/ZeitstrahlS.jpg"
 
 [![Dreifaltigkeitskirche](/images/DFK%20(Small).jpg)](/images/DFK.jpg)
 
+[![Dreifaltigkeitskirche innen](/images/DFKi%20(Small).jpg)](/images/DFKi.jpg)
+
 ### Retscherruine
 * "Steinreich"
 
@@ -109,5 +111,3 @@ feature_image: "/images/ZeitstrahlS.jpg"
 [![St. Georgen Turm](/images/StGeorgenTurm%20(Small).jpg)](/images/StGeorgenTurm.jpg)
 
 ### Der Dom
-### Bilderbibel
-### Orgel
