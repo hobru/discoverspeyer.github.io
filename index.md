@@ -5,8 +5,9 @@ feature_text: |
   
 ---
 
-Individuelle Stadtführungen durch Speyer: Ob Dom, Judenhof oder Dreifaltigkeitskirche, Speyer hat viel zu bieten. Auf einem kurzen Spaziergang gibt es neben den zwei UNESCO Weltkulturerben auch viel über die 2000 Jahre Speyrer Geschichte zu erfahren.
+Individual City Tours through Speyer: Whether it's the Cathedral, the Jewish Courtyard, or the Trinity Church, Speyer has a lot to offer. On a short walk, you can discover not only two UNESCO World Heritage Sites but also learn a great deal about Speyer's 2,000-year history.
 
-Mein Name ist Holger Bruchelt und ich bin offizieller Stadtführer in Speyer. Studiert habe ich Physik und bin weiterhin immer wieder beeindruckt, welche Leistungen nicht nur die Bauherren des Doms vor fast 1000 Jahren hervorgebracht haben.
+My name is Holger Bruchelt, and I am an official city guide in Speyer. I studied physics and continue to be amazed by the achievements of the builders of the cathedral nearly 1,000 years ago.
 
-Gerne möchte ich Ihnen in einer ca. 2 Stunden langen Führung durch meine wunderschöne Stadt einige Höhepunkte zeigen und Sie ebenfalls begeistern.
+I would be delighted to show you some highlights of my beautiful city during a tour of about two hours and to share my enthusiasm with you.
+

@@ -1,113 +1,114 @@
 ---
-title: 2000 Jahre Speyer in 20 Sekunden
+title: 2,000 Years of Speyer in 20 Seconds
 feature_image: "/images/ZeitstrahlS.jpg"
 ---
 
 
-* Speyer wird 10 v.Chr. als Noviomagus gegründet.
-* Um 614 wird zum ersten Mal der Name Spira verwendet
-* 1024 wird Konrad II zum König und 1027 zum Kaiser gekrönt. 1030 gilt als das Jahr in dem der Bau des Dom beginnt
-* 1076 bricht Heinich IV von Speyer zum Gang nach Canossa auf
-* 1084 kommen die ersten jüdischen Familien nach Speyer. Die erste Synago wird gebaut und später die Mikwe in der Nähe des Doms
-* Speyer wird Sitz des Reichskammergerichts und trägt verschiedene Reichstage aus. Darunter auch den Reichstag von 1529 bei dem es zum Protest des Mehrheitsbeschluss kommt
-* Im Pfälzer Erbfolgekreig wird Speyer 1689 nahezu komplett zerstört.
-* 1816 wird Speyer Kreishauptstadt und Regierungssitz des bayerischen Rheinkreises
-* 1991 wird das Technikmuseum in Speyer gegründet, das heute eine Boing 747 und die größte Weltraumaustellung in Europa beherbergt.
+* 10 BCE – Speyer is founded as Noviomagus.
+* Around 614 – The name Spira is used for the first time.
+* 1024 – Conrad II becomes King; crowned Emperor in 1027.
+* 1030 – Construction of the Speyer Cathedral begins.
+* 1076 – Emperor Henry IV departs from Speyer for the "Walk to Canossa".
+* 1084 – First Jewish families settle in Speyer; the first synagogue is built, followed later by the Mikveh near the cathedral.
+* 16th century – Speyer becomes seat of the Imperial Chamber Court and hosts several  Imperial Diets, including the Diet of 1529, where the famous Protestation occurs.
+* 1689 – Speyer is nearly destroyed during the War of the Palatine Succession.
+* 1816 – Speyer becomes district capital and seat of government for the Bavarian Rhine District.
+* 1991 – The Technik Museum Speyer is founded, now home to a Boeing 747 and Europe’s largest space exhibition.
 
-# Stadtrundgang
 
-## Dom - Westseite
-### Fassade des Doms
-* Nach Plänen des Architekten Heinrich Hübsch 1854–58 wiederaufgebaut
+# City walking tour
+
+## Cathedral – West Side
+### Cathedral Facade
+* Constructed between 1854–58 based on plans by architect Heinrich Hübsch
 [![Fassade](/images/20240319_175130%20(Small).jpg)](/images/20240319_175130.jpg)
 
 ### Evangelisten
-* Johannes wird durch einen Adler symbolisiert
-* Matthäus wird durch einen Engel symbolisiert.
-* Lukas wird durch einen Stier repräsentiert.
-* Markus wird durch einen Löwen dargestellt.
+* John is symbolized by an eagle
+* Matthew is symbolized by an angel
+* Luke is represented by an ox
+* Mark is depicted by a lion
 
 [![Evangelisten](/images/20231230_150947%20(Small).jpg)](/images/20231230_150947.jpg)
 
 
 ### Fünf Schutzpatrone 
-* Hl. Stephanus
-* Erzengel Michael
-* Hl Mutter Maria
-* Johannes der Täufer 
-* Bernard von Clairvaux
+* St. Stephen
+* Archangel Michael
+* Holy Mother Mary
+* John the Baptist
+* Bernard of Clairvaux
 
 [![Maria & Co](/images/20231230_150940%20(Small).jpg)](/images/20231230_150940.jpg)
 
-### Brezelbub
-* Der Brezelbug, auch bekannt als "Brezelferdinand"
+### Pretzel Boy / Brezelbub
+* The "Pretzel Boy," also known as "Pretzel Ferdinand"
 
 [![Brezelbug](/images/20231230_151010%20(Small).jpg)](/images/20231230_151010.jpg)
 
-### Todsünden
+### Deadly Sins
 [![Todsünden](/images/20231230_151055%20(Small).jpg)](/images/20231230_151055.jpg)
 
-### Domnapf
+### Cathedral Bowl
 [![Domnapf](/images/20240303_163139%20(Small).jpg)](/images/20240303_163139.jpg)
 
-## Dom - Südseite
-### Speyer 2
-### Brandspuren 1689
+## Cathedral – South Side
+### Fire burn Marks from 1689
 [![Domnapf](/images/Brandspuren%20(Small).jpg)](/images/Brandspuren.jpg)
 
 
-### Ölberg
+### Mount of Olives
 [![Ölberg](/images/Oelberg%20(Small).jpg)](/images/Oelberg.jpg)
 
-### Osttürme
+### East Towers
 
-## Dom - Ostseite
-### Okulus
+## Cathedral – East Side
+### Oculus
 [![Okulus](/images/20211107_165047%20(Small).jpg)](/images/20211107_165047.jpg)
 
-### Trommelrelief
+### Drum Relief
 [![Trommelrelief](/images/P1110705%20(1)%20(Small).jpg)](/images/P1110705%20(1).jpg)
 
-## Heidenmauer
-* Hier lebte der Legende nach der Riese Olp :-)
+## Heathen Wall
+* According to legend, the giant Olp lived here :-)
 
 [![Heidenmauer](/images/20240225_131543%20(Small).jpg)](/images/20240225_131543.jpg)
 
-## Dom - Nordseite
-### Bauphasen
+## Cathedral – North Side
+### Construction Phases
 [![Domnordseite](/images/Domnordseite%20(Small).jpg)](/images/Domnordseite.jpg)
 
-### Afrakapelle
+### Afra Chapel
 [![Afrakapelle](/images/20211107_165452%20(Small).jpg)](/images/20211107_165452.jpg)
 
-## Judenbad
-### Weisen von Speyer
+## Jewish Bath
+### Wise men of Speyer
 [![Weisden von Speyer](/images/20240530_115624937_iOS%20(Small).jpg)](/images/20240530_115624937_iOS.jpg)
 
-### Synagoge
+### Synagogue
 [![Synagoge](/images/20240330_150140%20(Small).jpg)](/images/20240330_150140.jpg)
 
-### Frauenschule
+### Women's School
 [![Frauenschule](/images/20240330_150138%20(Small).jpg)](/images/20240330_150138.jpg)
 
-### Mikwe
+### Mikveh
 [![Judenhof](/images/Judenhof1%20(Small).jpg)](/images/Judenhof1.jpg)
 [![Mikwe](/images/Mikwe1%20(Large).jpg)](/images/Mikwe1.jpg)
 [![Mikwe](/images/Mikwe2%20(Large).jpg)](/images/Mikwe2.jpg)
 
-## Dreifaltigkeitskirche
-* Die Dreifaltigkeitskirche ist einer der schönsten Kirchen (von innen). Hier mit Jakobspilger von außen
+## Trinity Church
+* The Trinity Church is one of the most beautiful churches. Here shown with a pilgrim on the Way of St. James / Camino de Santiago from the outside.
 
 [![Dreifaltigkeitskirche](/images/DFK%20(Small).jpg)](/images/DFK.jpg)
 
 [![Dreifaltigkeitskirche innen](/images/DFKi%20(Small).jpg)](/images/DFKi.jpg)
 
-### Retscherruine
+### Retscher Ruins
 * "Steinreich"
 
 [![Retscherruine](/images/Retscherruine%20(Small).jpg)](/images/Retscherruine.jpg)
 
-### Läutturm
+### Bell Tower
 [![St. Georgen Turm](/images/StGeorgenTurm%20(Small).jpg)](/images/StGeorgenTurm.jpg)
 
-### Der Dom
+### The Cathedral
