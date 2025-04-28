@@ -26,10 +26,20 @@ Speyer - das Zentrum einer attraktiven Region
 ## Other links
 ### Speyer
 * [Gästeführer Speyer](http://xn--stadtfhrung-speyer-r6b.de/index.php) 
-* [Touristinformation Speyer](https://www.speyer.de/en/tourism/) 
+* [Touristinformation Speyer](https://www.speyer.de/en/tourism/)
+* https://www.bistum-speyer.de/bistum/geschichte/ueberblick/
+* http://historischer-verein-speyer.de/?page_id=225
+* https://www.regionalgeschichte.net/index.php?id=14974
+* https://www.kurpfalzarchiv.de/die-schiffsbruecke-von-speyer/
 
 ### Cathedral
-* [Dom zu Speyer](https://www.dom-zu-speyer.de/) 
+* [Dom zu Speyer](https://www.dom-zu-speyer.de/)
+* https://www.welterbetour.de/speyerer-dom
 
 ### Jewish Courtyard
-* [Verkehrsverein Speyer](https://www.verkehrsverein-speyer.de/judenhof) 
+* [Verkehrsverein Speyer](https://www.verkehrsverein-speyer.de/judenhof)
+* https://www.stolpersteine-speyer.com
+* https://www.jüdische-gemeinden.de/index.php/gemeinden/s-t/1835-speyer-rheinland-pfalz
+
+### DFK
+* http://www.dreifaltigkeit-speyer.de
