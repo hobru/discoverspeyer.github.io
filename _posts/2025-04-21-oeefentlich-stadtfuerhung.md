@@ -1,5 +1,5 @@
 ---
-title: Meine nächste öffentliche Stadtführung am 26.04.2025
+title: Meine nächste öffentliche Stadtführung am 28.06.2025
 categories:
 - General
 feature_image: "/images/oeffentliche_fuehrung.jpg"
