@@ -24,9 +24,15 @@ plugins:
 url: 'https://www.discoverspeyer.de'
 baseurl: ''
 title: 'Discover Speyer'
-description: 'This is my new website'
+tagline: 'Revisit Speyer and see all the places you have visited!'
+description: 'Website about Speyer. If you have joined my tour or plan to visit Speyer, this site provides you with all the information to get started!'
+authro: 'Holger Bruchelt'
 permalink: pretty
 logo: "/images/Designer.png"
+social: 
+  twitter: 'https://x.com/hobru'
+  instagram: 'https://www.instagram.com/walkingwithloki/'
+  github: 'https://github.com/hobru'
 
 # Pagination
 paginate: 5
@@ -38,6 +44,8 @@ navigation_header:
   url: /
 - title: Speyer
   url: /Speyer/
+- title: Technikmuseum
+  url: /Technikmuseum/
 - title: Blog
   url: /blog/
 - title: Impressum
