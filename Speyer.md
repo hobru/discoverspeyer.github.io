@@ -23,9 +23,10 @@ feature_image: "/images/ZeitstrahlS.jpg"
 
 ### Cathedral Facade
 * Constructed between 1854–58 based on plans by architect Heinrich Hübsch
+
 ![Fassade](/images/20240319_175130%20(Small).jpg)
 
-### Evangelisten
+### Evangelists
 * John is symbolized by an eagle
 * Matthew is symbolized by an angel
 * Luke is represented by an ox
@@ -34,7 +35,7 @@ feature_image: "/images/ZeitstrahlS.jpg"
 ![Evangelisten](/images/20231230_150947%20(Small).jpg)
 
 
-### Fünf Schutzpatrone 
+### Five Patron Saints 
 * St. Stephen
 * Archangel Michael
 * Holy Mother Mary
@@ -52,6 +53,9 @@ feature_image: "/images/ZeitstrahlS.jpg"
 ![Todsünden](/images/20231230_151055%20(Small).jpg)
 
 ### Cathedral Bowl
+* Stone of Shame
+* Free Wine
+
 ![Domnapf](/images/20240303_163139%20(Small).jpg)
 
 ## Cathedral – South Side
@@ -114,8 +118,6 @@ feature_image: "/images/ZeitstrahlS.jpg"
 
 ### Bell Tower
 ![St. Georgen Turm](/images/StGeorgenTurm%20(Small).jpg)
-![St. Georgen Turm](/images/StGeorgenTurm2%20(Small).jpg)
-![St. Georgen Turm](/images/StGeorgenTurm3%20(Small).jpg)
 
 ### Picture of Cathedral
 ![Picture of Cathedral in Trinity Church](/images/DominDFK%20(Small).jpg)
