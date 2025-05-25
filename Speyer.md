@@ -18,6 +18,28 @@ feature_image: "/images/ZeitstrahlS.jpg"
 
 # City walking tour
 
+## Surrounding the Cathedral
+### Statues of Konrad II, Henry III, Henry IV and Henry V
+* [Conrad II](https://en.wikipedia.org/wiki/Conrad_II,_Holy_Roman_Emperor), the first Salient Emporer with his wife Gisela. He started to build the cathedral
+* [Henry III ](https://en.wikipedia.org/wiki/Henry_III,_Holy_Roman_Emperor)
+* [Henry IV](https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor) made the cathedral even bigger and also fought with Pope Gregor VII on the Investiture Controversy, his "Walk to Canossa"
+* [Henry V](https://en.wikipedia.org/wiki/Henry_V,_Holy_Roman_Emperor) was crowned emporer in 1111 and died 1125 without any children
+
+![Salient Kings](/images/Statue%20(Small).jpg) 
+
+### Prezel
+
+![Ampel](/images/Ampel%20(Small).jpg) 
+
+
+### Speyer and the English Crown
+* [Matilda](https://en.wikipedia.org/wiki/Empress_Matilda) of England, wife of Henry V, moved to England after Henry V deaths, where she became the first queen of England. She became grand-mother of [Richard I](https://en.wikipedia.org/wiki/Richard_I_of_England) of England (Richard the Lionheart)
+* Richard the Lionheart was held captive in Speyer in 1193
+
+![AI generated picture of Richard the Lionheart](/images/RichardLionheart%20(Small).jpg)
+
+
+
 ## Cathedral – West Side
 ![Cathedral](/images/Dom-2%20(Small).jpg)
 
@@ -50,7 +72,9 @@ feature_image: "/images/ZeitstrahlS.jpg"
 ![Brezelbug](/images/20231230_151010%20(Small).jpg)
 
 ### Deadly Sins
-![Todsünden](/images/20231230_151055%20(Small).jpg)
+![Todsünden - 1](/images/Sin1%20(Small).jpg)
+![Todsünden - 2](/images/Sin2%20(Small).jpg)
+![Todsünden - 3](/images/Sin3%20(Small).jpg)
 
 ### Cathedral Bowl
 * Stone of Shame
@@ -60,6 +84,8 @@ feature_image: "/images/ZeitstrahlS.jpg"
 
 ## Cathedral – South Side
 ### Fire burn Marks from 1689
+* To the right of the fire ladder the burned stones can be seen (big fire of 1689)
+
 ![Domnapf](/images/Brandspuren%20(Small).jpg)
 
 
@@ -70,6 +96,8 @@ feature_image: "/images/ZeitstrahlS.jpg"
 
 ## Cathedral – East Side
 ### Oculus
+* At the Equinox, twice each year (20 March and 23 September), at sunrise, the sun shines through this window illuminating the cathedral in a magical light
+
 ![Okulus](/images/20211107_165047%20(Small).jpg)
 
 ### Drum Relief
@@ -86,6 +114,40 @@ feature_image: "/images/ZeitstrahlS.jpg"
 
 ### Afra Chapel
 ![Afrakapelle](/images/20211107_165452%20(Small).jpg)
+
+## Insight the Cathedral
+* Simple, but majestic
+
+![Dom Innen](/images/DomInnen%20(Small).jpg)
+
+
+## Small holes across all walls
+* The cathedral was completely painted in the 18th century, to make it stick, thousands of holes were cut in the walls
+
+![Small holes](/images/SmallHoles%20(Small).jpg)
+
+
+## O clemens, o pia, o dulcis virgo Maria
+
+![O Dulcis](/images/O_Dulcis%20(Small).jpg)
+
+
+## Crypt
+* The largest Romanesque columned hall crypt in Europe
+* Eight emperors and kings and a number of their wives are buried here:
+    * Conrad II (died 1039) and his wife Gisela (died 1043)
+    * Henry III (died 1056), son of Conrad II.
+    * Henry IV (died 1106), son of Henry III, and his wife Bertha (died 1087)
+    * Henry V (died 1125), son of Henry IV.
+    * Beatrice I (died 1184), second wife of Frederick Barbarossa and their daughter Agnes
+    * King Philipp of Swabia (died 1208), son of Frederick Barbarossa
+    * King Rudolph of Habsburg (died 1291)
+    * King Adolph of Nassau (died 1298)
+    * King Albert I of Germany (died 1308), son of Rudolph of Habsburg
+
+![Crype](/images/Krypta%20(Small).jpg)
+![Gräber](/images/Graeber%20(Small).jpg)
+
 
 ## Jewish Bath
 ### Wise men of Speyer
@@ -111,7 +173,7 @@ feature_image: "/images/ZeitstrahlS.jpg"
 ![Dreifaltigkeitskirche innen](/images/DFKi%20(Small).jpg)
 
 ### Retscher Ruins
-* "Steinreich"
+* "Steinreich" / Stone-Rich / Filthy Rich
 
 ![Retscherruine](/images/Retscherruine%20(Small).jpg)
 ![Retscherruine Innen](/images/Retscher%20(Small).jpg)
@@ -122,6 +184,41 @@ feature_image: "/images/ZeitstrahlS.jpg"
 ### Picture of Cathedral
 ![Picture of Cathedral in Trinity Church](/images/DominDFK%20(Small).jpg)
 
-## Fish market
+## Old Town
+
+### Sonnenbrücke
+
+![Sonnenbrücke](/images/Sonnenbruecke%20(Small).jpg)
+
+### Fish market
 ![Fischmarkt](/images/Fischmarkt%20(Small).jpg)
+
+
+# To be continued...
+
+## Main Street / Via Triumphalis / Maximilianstreet
+### Stuhlbrudergasse
+
+### Domhof
+
+### Stadthaus
+
+### Sophie La Roche
+
+### Jakobspilger
+
+### Georg der Drachentöter
+
+### Alte Münze
+
+### Rathaus
+
+### Unicorn Phramacy 
+* One of the ten oldest pharmacies in Germany, [mentioned 1457](http://historischer-verein-speyer.de/?p=1099) as Pharmacy at the market 
+
+
+### Old Gate / Altpörtel
+#### Clocks
+
+#### Spire Foot
 
