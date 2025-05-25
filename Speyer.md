@@ -16,9 +16,26 @@ feature_image: "/images/ZeitstrahlS.jpg"
 * 1991 – The Technik Museum Speyer is founded, now home to a Boeing 747 and Europe’s largest space exhibition.
 
 
-# City walking tour
+# Jump to...
 
-## Surrounding the Cathedral
+| **Cathedral**      | **Jewish Courtyard, Trinity Church, Old town** |
+|----------------|------------------|
+| - [Surround](#Cathedral-Surround) | - [Jewish Courtyard](#jewish-bath) |
+| - [West](#cathedral-west) | - [Trinity Church](#trinity-church) |
+| - [South](#cathedral-south) | - [Old town](#old-town) |
+| - [East](#cathedral-east) | |
+| - [Heathen Wall](#heathen-wall) | |
+| - [North](#cathedral-north) | |
+| - [Inside](#cathedral-inside) | |
+| - [Crypt](#cathedral-crypt) | |
+
+
+
+---
+
+# City walking tour {#city-walking-tour}
+
+## Surrounding the Cathedral {#Cathedral-Surround}
 ### Statues of Konrad II, Henry III, Henry IV and Henry V
 * [Conrad II](https://en.wikipedia.org/wiki/Conrad_II,_Holy_Roman_Emperor), the first Salient Emperor with his wife Gisela. He started to build the cathedral in 1030
 * [Henry III ](https://en.wikipedia.org/wiki/Henry_III,_Holy_Roman_Emperor)
@@ -40,7 +57,7 @@ feature_image: "/images/ZeitstrahlS.jpg"
 
 
 
-## Cathedral – West Side
+## Cathedral – West Side {#cathedral-west}
 ![Cathedral](/images/Dom-2%20(Small).jpg)
 
 ### Cathedral Facade
@@ -82,7 +99,7 @@ feature_image: "/images/ZeitstrahlS.jpg"
 
 ![Domnapf](/images/20240303_163139%20(Small).jpg)
 
-## Cathedral – South Side
+## Cathedral – South Side {#cathedral-south}
 ### Fire burn Marks from 1689
 * To the right of the fire ladder the burned stones can be seen (big fire of 1689)
 
@@ -94,7 +111,7 @@ feature_image: "/images/ZeitstrahlS.jpg"
 
 ### East Towers
 
-## Cathedral – East Side
+## Cathedral – East Side {#cathedral-east}
 ### Oculus
 * At the Equinox, twice each year (20 March and 23 September), at sunrise, the sun shines through this window illuminating the cathedral in a magical light
 
@@ -103,36 +120,36 @@ feature_image: "/images/ZeitstrahlS.jpg"
 ### Drum Relief
 ![Trommelrelief](/images/P1110705%20(1)%20(Small).jpg)
 
-## Heathen Wall
+## Heathen Wall {#heathen-wall}
 * According to legend, the giant Olp lived here :-)
 
 ![Heidenmauer](/images/20240225_131543%20(Small).jpg)
 
-## Cathedral – North Side
-### Construction Phases
+## Cathedral – North Side {#cathedral-north}
+### Construction Phases 
 ![Domnordseite](/images/Domnordseite%20(Small).jpg)
 
 ### Afra Chapel
 ![Afrakapelle](/images/20211107_165452%20(Small).jpg)
 
-## Insight the Cathedral
+## Inside the Cathedral {#cathedral-inside}
 * Simple, but majestic
 
 ![Dom Innen](/images/DomInnen%20(Small).jpg)
 
 
-## Small holes across all walls
+### Small holes across all walls
 * The cathedral was completely painted in the 18th century, to make it stick, thousands of holes were cut in the walls
 
 ![Small holes](/images/SmallHoles%20(Small).jpg)
 
 
-## O clemens, o pia, o dulcis virgo Maria
+### O clemens, o pia, o dulcis virgo Maria
 
 ![O Dulcis](/images/O_Dulcis%20(Small).jpg)
 
 
-## Crypt
+### Crypt {#cathedral-crypt}
 * The largest Romanesque columned hall crypt in Europe
 * Eight emperors and kings and a number of their wives are buried here:
     * Conrad II (died 1039) and his wife Gisela (died 1043)
@@ -149,7 +166,7 @@ feature_image: "/images/ZeitstrahlS.jpg"
 ![Gräber](/images/Graeber%20(Small).jpg)
 
 
-## Jewish Bath
+## Jewish Courtyard {#jewish-bath}
 ### Wise men of Speyer
 ![Weisden von Speyer](/images/20240530_115624937_iOS%20(Small).jpg)
 
@@ -165,7 +182,7 @@ feature_image: "/images/ZeitstrahlS.jpg"
 ![Mikwe](/images/Mikwe2%20(Large).jpg)
 ![Mikwe](/images/Mikwe%20(Small).jpg)
 
-## Trinity Church
+## Trinity Church {#trinity-church}
 * The Trinity Church is one of the most beautiful churches. Here shown with a pilgrim on the Way of St. James / Camino de Santiago from the outside.
 
 ![Dreifaltigkeitskirche](/images/DFK%20(Small).jpg)
@@ -184,7 +201,7 @@ feature_image: "/images/ZeitstrahlS.jpg"
 ### Picture of Cathedral
 ![Picture of Cathedral in Trinity Church](/images/DominDFK%20(Small).jpg)
 
-## Old Town
+## Old Town {#old-town}
 
 ### Sonnenbrücke
 
