@@ -139,7 +139,8 @@ feature_image: "/images/ZeitstrahlS.jpg"
 
 
 ### Small holes across all walls
-* The cathedral was completely painted in the 18th century, to make it stick, thousands of holes were cut in the walls
+* The cathedral was completely painted in the 19th century, to make it stick, thousands of holes were cut in the walls
+* Only after 1957 were most of the paintings removed (some of them can still be seen in the Kaisersaal)
 
 ![Small holes](/images/SmallHoles%20(Small).jpg)
 

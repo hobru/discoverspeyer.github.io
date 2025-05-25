@@ -36,6 +36,8 @@ Speyer - das Zentrum einer attraktiven Region
 ### Cathedral
 * [Dom zu Speyer](https://www.dom-zu-speyer.de/)
 * [Welterbetour - Speyerer Dom](https://www.welterbetour.de/speyerer-dom)
+* [UNESCO World Heritage Convention - Speyer Cathedral](https://whc.unesco.org/en/list/168/)
+* [Der Marienzyklus](https://www.dom-zu-speyer.de/bauwerk/marienzyklus/)
 
 ### Jewish Courtyard
 * [Verkehrsverein Speyer](https://www.verkehrsverein-speyer.de/judenhof)
