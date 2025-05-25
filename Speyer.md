@@ -20,14 +20,14 @@ feature_image: "/images/ZeitstrahlS.jpg"
 
 ## Surrounding the Cathedral
 ### Statues of Konrad II, Henry III, Henry IV and Henry V
-* [Conrad II](https://en.wikipedia.org/wiki/Conrad_II,_Holy_Roman_Emperor), the first Salient Emporer with his wife Gisela. He started to build the cathedral
+* [Conrad II](https://en.wikipedia.org/wiki/Conrad_II,_Holy_Roman_Emperor), the first Salient Emperor with his wife Gisela. He started to build the cathedral in 1030
 * [Henry III ](https://en.wikipedia.org/wiki/Henry_III,_Holy_Roman_Emperor)
 * [Henry IV](https://en.wikipedia.org/wiki/Henry_IV,_Holy_Roman_Emperor) made the cathedral even bigger and also fought with Pope Gregor VII on the Investiture Controversy, his "Walk to Canossa"
-* [Henry V](https://en.wikipedia.org/wiki/Henry_V,_Holy_Roman_Emperor) was crowned emporer in 1111 and died 1125 without any children
+* [Henry V](https://en.wikipedia.org/wiki/Henry_V,_Holy_Roman_Emperor) was crowned emperor in 1111 and died 1125 without any children
 
 ![Salient Kings](/images/Statue%20(Small).jpg) 
 
-### Prezel
+### Pretzel
 
 ![Ampel](/images/Ampel%20(Small).jpg) 
 
