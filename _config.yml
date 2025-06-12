@@ -19,6 +19,7 @@ plugins:
 - jekyll-include-cache
 - jemoji
 - jekyll-remote-theme
+- jekyll-analytics
 
 # Site settings
 url: 'https://www.discoverspeyer.de'
@@ -33,6 +34,16 @@ social:
   twitter: 'https://x.com/hobru'
   instagram: 'https://www.instagram.com/walkingwithloki/'
   github: 'https://github.com/hobru'
+
+# From https://github.com/hendrikschneider/jekyll-analytics
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: G-WHJKQYTCHT          # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+
+# Not sure which was the right one, so I added both
+# could probably also be added via https://github.com/daviddarnes/alembic?tab=readme-ov-file#site-before-starthtml--site-before-endhtml
+google_analytics: 'G-WHJKQYTCHT'
 
 # Pagination
 paginate: 5
@@ -81,3 +92,5 @@ defaults:
       type: "pages"
     values:
       layout: page # Set the default layout for pages
+
+
