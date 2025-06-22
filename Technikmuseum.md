@@ -5,7 +5,7 @@ feature_image: "/images/Technikmusem.jpg"
 
 ## Engines
 ### Krupp Schnellzuglokomotive 01-514
-* Based on MOdel 01 208, build in 1937 by Krupp in Essen
+* Based on Model 01 208, build in 1937 by Krupp in Essen
 * REtrofitted with new boilers bewtween 1961 - 1965
 * High-Speed: 130 km/h
 
@@ -107,12 +107,16 @@ feature_image: "/images/Technikmusem.jpg"
 ## Apollo and Beyond
 ![Apollo and Beyond](/images/Apollo%20(Small).jpg)
 
-### Mondlandungen
+### Moon landing
 ![Mondlandungen](/images/Mondlandungen%20(Small).jpg)
 ![Mond](/images/Mond%20(Small).jpg)
 ![Mondstein](/images/Mondstein%20(Small).jpg)
 
 ### Buran 
+* Russion Space Shuttle, 36 meters long, 16 meters high, and weighs around 80 tons
+* OK-GLI (Orbital Ship-Horizontal Flight Tests), which was a test vehicle used for atmospheric flight tests rather than an actual space-flown orbiter
+* completed 25 test flights between 1984 and 1988
+
 ![Buran](/images/Buran%20(Small).jpg)
 ![Buran](/images/Buran-2%20(Small).jpg)
 ![Buran](/images/Buran-3%20(Small).jpg)

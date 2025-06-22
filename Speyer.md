@@ -91,7 +91,7 @@ feature_image: "/images/ZeitstrahlS.jpg"
 ### Deadly Sins
 ![Todsünden - 1](/images/Sin1%20(Small).jpg)
 ![Todsünden - 2](/images/Sin2%20(Small).jpg)
-![Todsünden - 3](/images/Sin3%20(Small).jpg)
+![Todsünden - 3](/images/SIn3%20(Small).jpg)
 
 ### Cathedral Bowl
 * Stone of Shame
@@ -127,9 +127,15 @@ feature_image: "/images/ZeitstrahlS.jpg"
 
 ## Cathedral – North Side {#cathedral-north}
 ### Construction Phases 
+* Left (East): Older stones with more visible mortar, indicating earlier construction techniques.
+* Middle: Newer, larger, more uniform stones with less mortar, reflecting advancements in stone-cutting technology after the destruction of the fire in 1689.
+* Right (West): A return to older stonework, again with more mortar, and including a pyramid-style facade from the late 18th century.
+
 ![Domnordseite](/images/Domnordseite%20(Small).jpg)
 
 ### Afra Chapel
+* After Henry IV death in 1106, and while still excommunicated, he was temporarily buried here. His son, Henry V, later secured the lifting of the ban, allowing for his reburial in the cathedral in 1111.
+
 ![Afrakapelle](/images/20211107_165452%20(Small).jpg)
 
 ## Inside the Cathedral {#cathedral-inside}
@@ -189,6 +195,11 @@ feature_image: "/images/ZeitstrahlS.jpg"
 ![Dreifaltigkeitskirche](/images/DFK%20(Small).jpg)
 
 ![Dreifaltigkeitskirche innen](/images/DFKi%20(Small).jpg)
+
+* Guest from the US performing in the Trinity Church during our tour
+[![Performance in Trinity Church by guest form US](/images/TrinityChurch-Performance%20(Small).jpg)](https://youtu.be/Xx9d_ApPewc)
+
+
 
 ### Retscher Ruins
 * "Steinreich" / Stone-Rich / Filthy Rich
