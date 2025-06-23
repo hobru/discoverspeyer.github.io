@@ -4,13 +4,13 @@ feature_image: "/images/ZeitstrahlS.jpg"
 ---
 
 
-* 10 BCE – Speyer is founded as Noviomagus.
-* Around 614 – The name Spira is used for the first time.
-* 1024 – Conrad II becomes King; crowned Emperor in 1027.
-* 1030 – Construction of the Speyer Cathedral begins.
-* 1076 – Emperor Henry IV departs from Speyer for the "Walk to Canossa".
+* 10 BCE – Speyer is founded as *Noviomagus* by the Romans.
+* Around 614 – The name *Spira* appears for the first time
+* 1024 – Conrad II becomes King of the Romans; crowned Emperor in 1027
+* 1030 – Construction of the monumental Speyer Cathedral begins.
+* 1076 – Emperor Henry IV departs from Speyer for the famous *Walk to Canossa*
 * 1084 – First Jewish families settle in Speyer; the first synagogue is built, followed later by the Mikveh near the cathedral.
-* 16th century – Speyer becomes seat of the Imperial Chamber Court and hosts several  Imperial Diets, including the Diet of 1529, where the famous Protestation occurs.
+* 16th century – Speyer becomes seat of the Imperial Chamber Court and hosts several Imperial Diets, including the Diet of 1529, where the famous Protestation occurs.
 * 1689 – Speyer is nearly destroyed during the War of the Palatine Succession.
 * 1816 – Speyer becomes district capital and seat of government for the Bavarian Rhine District.
 * 1991 – The Technik Museum Speyer is founded, now home to a Boeing 747 and Europe’s largest space exhibition.
@@ -196,7 +196,8 @@ feature_image: "/images/ZeitstrahlS.jpg"
 
 ![Dreifaltigkeitskirche innen](/images/DFKi%20(Small).jpg)
 
-* Guest from the US performing in the Trinity Church during our tour
+* Video with guest from the US performing in the Trinity Church during our tour
+
 [![Performance in Trinity Church by guest form US](/images/TrinityChurch-Performance%20(Small).jpg)](https://youtu.be/Xx9d_ApPewc)
 
 
