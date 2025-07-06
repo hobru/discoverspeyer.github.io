@@ -98,6 +98,7 @@ feature_image: "/images/Technikmusem.jpg"
 ### U9
 * Type 205 Submarine: Built for the German Navy during the Cold War, commissioned in 1967.
 * Traveled over 174,850 nautical miles and spent nearly 2 years submerged in total
+* Another Submarine was recently transported to the sister museum in Sinnheism, see [U17 - Die erste Drehung](https://www.youtube.com/watch?v=f4aOVXe3ND0&list=WL&index=2)
 
 ![U9](/images/U9%20(Small).jpg)
 ![U9](/images/U9-Aussen2%20(Small).jpg)
@@ -127,3 +128,5 @@ feature_image: "/images/Technikmusem.jpg"
 ## Misc
 ### Etagenkarusell
 ![Karusell](/images/Karusell%20(Small).jpg)
+
+# More to come...

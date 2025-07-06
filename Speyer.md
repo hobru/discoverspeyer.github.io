@@ -50,7 +50,7 @@ feature_image: "/images/ZeitstrahlS.jpg"
 
 
 ### Speyer and the English Crown
-* [Matilda](https://en.wikipedia.org/wiki/Empress_Matilda) of England, wife of Henry V, moved to England after Henry V deaths, where she became the first queen of England. She became grand-mother of [Richard I](https://en.wikipedia.org/wiki/Richard_I_of_England) of England (Richard the Lionheart)
+* [Matilda](https://en.wikipedia.org/wiki/Empress_Matilda) of England, wife of "our" Henry V, moved to England after Henry V deaths, where she became the first queen of England. She became grand-mother of [Richard I](https://en.wikipedia.org/wiki/Richard_I_of_England) of England (Richard the Lionheart)
 * Richard the Lionheart was held captive in Speyer in 1193
 
 ![AI generated picture of Richard the Lionheart](/images/RichardLionheart%20(Small).jpg)
@@ -61,7 +61,7 @@ feature_image: "/images/ZeitstrahlS.jpg"
 ![Cathedral](/images/Dom-2%20(Small).jpg)
 
 ### Cathedral Facade
-* Constructed between 1854–58 based on plans by architect Heinrich Hübsch
+* Constructed between 1854–58 based on plans by architect Heinrich Hübsch (Hübsch = Beautiful)
 
 ![Fassade](/images/20240319_175130%20(Small).jpg)
 
@@ -118,6 +118,8 @@ feature_image: "/images/ZeitstrahlS.jpg"
 ![Okulus](/images/20211107_165047%20(Small).jpg)
 
 ### Drum Relief
+* Two Snakes at the top - or is it a Prezel?
+
 ![Trommelrelief](/images/P1110705%20(1)%20(Small).jpg)
 
 ## Heathen Wall {#heathen-wall}
@@ -180,10 +182,14 @@ feature_image: "/images/ZeitstrahlS.jpg"
 ### Synagogue
 ![Synagoge](/images/20240330_150140%20(Small).jpg)
 
-### Women's School
+### Frauenschul (Women's Synagogue)
+* Built in the 13th century, it was a dedicated space for women to pray, and listen to what was happening in the Synagogue
+
 ![Frauenschule](/images/20240330_150138%20(Small).jpg)
 
 ### Mikveh
+* Dating back to the early 12th century, this is the oldest preserved ritual bath north of the Alps, with crystal-clear groundwater still visible today
+ 
 ![Judenhof](/images/Judenhof1%20(Small).jpg)
 ![Mikwe](/images/Mikwe1%20(Large).jpg)
 ![Mikwe](/images/Mikwe2%20(Large).jpg)
