@@ -50,8 +50,8 @@ feature_image: "/images/ZeitstrahlS.jpg"
 
 
 ### Speyer and the English Crown
-* [Matilda](https://en.wikipedia.org/wiki/Empress_Matilda) of England, wife of "our" Henry V, moved to England after Henry V deaths, where she became the first queen of England. She became grand-mother of [Richard I](https://en.wikipedia.org/wiki/Richard_I_of_England) of England (Richard the Lionheart)
-* Richard the Lionheart was held captive in Speyer in 1193
+* [Matilda](https://en.wikipedia.org/wiki/Empress_Matilda) of England, daughter of Henry I of England, wife of "our" Henry V, moved to England after Henry V deaths, and became the mother of Henry II of England. She was also the grand-mother of [Richard I](https://en.wikipedia.org/wiki/Richard_I_of_England) of England (Richard the Lionheart)
+* Richard the Lionheart was held captive in Speyer in 1193 (returing from the Third Crusade and captured near Vienna by Duke Leopold of Austria), and was only released after 150.000 Silber Mark were paid
 
 ![AI generated picture of Richard the Lionheart](/images/RichardLionheart%20(Small).jpg)
 
