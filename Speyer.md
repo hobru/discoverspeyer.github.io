@@ -281,7 +281,7 @@ feature_image: "/images/ZeitstrahlS.jpg"
 
 ## Main Street / Via Triumphalis / Maximilianstreet
 ![Maxi](/images/Maxi.jpg)
-![Maxi - Sonnenaufgang](/images/Maxi-Sonnenaufgang.jpg
+![Maxi - Sonnenaufgang](/images/Maxi-Sonnenaufgang.jpg)
 
 
 ### Stuhlbrudergasse
