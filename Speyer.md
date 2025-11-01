@@ -155,6 +155,7 @@ feature_image: "/images/ZeitstrahlS.jpg"
 
 ![Dom Innen](/images/DomInnen%20(Small).jpg)
 ![Dom Innen](/images/Dom-Innen-Bilder.jpg)
+![Dom Innen](/images/Dom-Innen-Bilder-Links.jpg)
 ![Dom Innen](/images/Dom-Innen-Oben-Bilder.jpg)
 ![Dom Innen](/images/Dom-Innen-Oben.jpg)
 ![Dom Orgel](/images/Dom-Orgel.jpg)
@@ -279,6 +280,10 @@ feature_image: "/images/ZeitstrahlS.jpg"
 # To be continued...
 
 ## Main Street / Via Triumphalis / Maximilianstreet
+![Maxi](/images/Maxi.jpg)
+![Maxi - Sonnenaufgang](/images/Maxi-Sonnenaufgang.jpg
+
+
 ### Stuhlbrudergasse
 
 ### Domhof
@@ -317,4 +322,10 @@ feature_image: "/images/ZeitstrahlS.jpg"
 
 ![Fährmann](/images/Fährmann.jpg)
 
+### Postplatz
+
+![Postplatz](/images/Postplatz.jpg)
+
+### Gedächtniskirche + Johanneskirche
+![Gedächstnis](/images/Gedächtnis+Johannes.jpg)
 
