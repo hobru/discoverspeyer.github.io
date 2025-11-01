@@ -154,7 +154,27 @@ feature_image: "/images/ZeitstrahlS.jpg"
 * Simple, but majestic
 
 ![Dom Innen](/images/DomInnen%20(Small).jpg)
+![Dom Innen](images/Dom-Innen-Bilder.jpg)
+![Dom Innen](images/Dom-Innen-Oben-Bilder.jpg)
+![Dom Innen](images/Dom-Innen-Oben.jpg)
+![Dom Orgel](/images/Dom-Orgel.jpg)
 
+
+### Dachstuhl
+![Dom Dachstuhl - Übergang](/images/Dom-Dachstuhl-Übergang.jpg)
+![Dom Dachstuhl - Kuppel](/images/Dom-Dachstuhl-Kuppel.jpg)
+![Dom Dachstuhl - Leiter](/images/Dom-Dachstuhl-Leiter.jpg)
+
+### Kaisersall
+![Dom Kaisersaal](/images/Dom-Kaisersall-Haupt.jpg)
+![Dom Kaisersaal](/images/Dom-Kaisersal.jpg)
+
+### Inside
+![Dom Kerzen](/images/Dom-Kerzen.jpg)
+
+### Modell
+![Dom Modell - Außen](/images/Dom-Aussen.jpg)
+![Dom Modell - Innen](/images/Dom-Innen.jpg)
 
 ### Small holes across all walls
 * The cathedral was completely painted in the 19th century, to make it stick, thousands of holes were cut in the walls
@@ -253,6 +273,9 @@ feature_image: "/images/ZeitstrahlS.jpg"
 ![Fischmarkt](/images/Fischmarkt%20(Small).jpg)
 
 
+### Synagoge
+![Synagoge](/images/Synagoge.jpg)
+
 # To be continued...
 
 ## Main Street / Via Triumphalis / Maximilianstreet
@@ -265,6 +288,7 @@ feature_image: "/images/ZeitstrahlS.jpg"
 ### Sophie La Roche
 
 ### Jakobspilger
+![Pilger](images/Pilger.jpg)
 
 ### Georg der Drachentöter
 
@@ -277,6 +301,7 @@ feature_image: "/images/ZeitstrahlS.jpg"
 
 
 ### Old Gate / Altpörtel
+![Altpörtel](images/Alt-Poertel.jpg)
 #### Clocks
 
 #### Spire Foot
