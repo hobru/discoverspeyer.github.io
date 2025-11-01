@@ -44,7 +44,10 @@ feature_image: "/images/ZeitstrahlS.jpg"
 
 ![Salient Kings](/images/Statue%20(Small).jpg) 
 
-### Pretzel
+### Pretzel - Invented in Speyer?
+* Speyer as the birthplace of the pretzel legend: Local tradition claims that the first pretzel was created by monks in Speyer during the early Middle Ages as a reward for children learning prayers.
+* Religious symbolism: The pretzel’s distinctive shape—arms folded in prayer—reflects its origin in Speyer’s monastic culture and its role in Christian fasting traditions.
+* Cultural heritage: Today, Speyer celebrates this connection through bakeries and regional festivals, making the pretzel an enduring symbol of Rhineland culinary history.
 
 ![Ampel](/images/Ampel%20(Small).jpg) 
 
@@ -89,6 +92,10 @@ feature_image: "/images/ZeitstrahlS.jpg"
 ![Brezelbug](/images/20231230_151010%20(Small).jpg)
 
 ### Deadly Sins
+* Moral Warning in Stone: The west façade features sculptural representations of the Seven Deadly Sins—pride, greed, lust, envy, gluttony, wrath, and sloth—serving as a visual reminder of Christian ethics.
+* Romanesque Symbolism: Each sin is carved into figures or scenes that contrast virtue and vice, reflecting the medieval belief in teaching morality through art.
+* Educational Purpose: These depictions were intended to guide pilgrims and townsfolk, illustrating consequences of sinful behavior in an era when most people were illiterate.
+
 ![Todsünden - 1](/images/Sin1%20(Small).jpg)
 ![Todsünden - 2](/images/Sin2%20(Small).jpg)
 ![Todsünden - 3](/images/SIn3%20(Small).jpg)
@@ -107,6 +114,9 @@ feature_image: "/images/ZeitstrahlS.jpg"
 
 
 ### Mount of Olives
+* Depiction of Christ’s Agony: The Mount of Olives group shows Jesus praying in Gethsemane before his arrest, a powerful representation of his solitude and suffering.
+* Late-Gothic Masterpiece (ca. 1505–1512): Commissioned by the Speyer cathedral chapter in the early 1500s, initial work began around 1505–09 under sculptors Hans and Lienhard Seyfer (and possibly Nikolaus Elser), with final completion around 1512. 
+* Historical Resilience: Originally central to the cathedral cloister, this sculptural ensemble was largely destroyed in 1689 and again during the French Revolutionary era. It was later restored in the late 19th century, and today’s figures were reimagined by Speyer sculptor Gottfried Renn (1856), preserving the site's religious and artistic legacy.
 ![Ölberg](/images/Oelberg%20(Small).jpg)
 
 ### East Towers
@@ -154,6 +164,9 @@ feature_image: "/images/ZeitstrahlS.jpg"
 
 
 ### O clemens, o pia, o dulcis virgo Maria
+* "O clemens, o pia, o dulcis virgo Maria" translates to "O merciful, O loving, O sweet Virgin Mary". It is a devotional invocation expressing reverence and trust in Mary’s compassion and intercession.
+* According to tradition, Bernard of Clairvaux spoke these words during his visit to Speyer Cathedral at Christmas in 1146, emphasizing Marian devotion as part of his preaching for the Second Crusade.
+* These lines form the closing of the hymn Salve Regina, one of the most famous Marian antiphons in Catholic liturgy, sung during evening prayers and pilgrimages throughout the Middle Ages.
 
 ![O Dulcis](/images/O_Dulcis%20(Small).jpg)
 
@@ -172,11 +185,17 @@ feature_image: "/images/ZeitstrahlS.jpg"
     * King Albert I of Germany (died 1308), son of Rudolph of Habsburg
 
 ![Crype](/images/Krypta%20(Small).jpg)
+
+* Notice the three iron belts on the grave of Emperor Conrad II 
 ![Gräber](/images/Graeber%20(Small).jpg)
 
 
 ## Jewish Courtyard {#jewish-bath}
 ### Wise men of Speyer
+* Medieval Scholars of Speyer: In the 12th century, Speyer emerged as a prominent center of Jewish learning within the SHUM network. Its rabbis and teachers became renowned across Europe, earning the collective title "Wise Men of Speyer"
+* Lived in the Jewish Courtyard (Judenhof): These scholars were based in the locus of Jewish intellectual life next to the cathedral. The Judenhof—comprising synagogue ruins, the women’s shul, and the mikveh - serves as the historical setting where their theological teachings and halakhic rulings were formed.
+* The museum highlights their influence on Ashkenazic Judaism through artifacts such as synagogue architectural fragments, Hebrew inscriptions, gravestones, and educational materials that preserved their scholarly legacy.
+
 ![Weisden von Speyer](/images/20240530_115624937_iOS%20(Small).jpg)
 
 ### Synagogue
@@ -215,6 +234,10 @@ feature_image: "/images/ZeitstrahlS.jpg"
 ![Retscherruine Innen](/images/Retscher%20(Small).jpg)
 
 ### Bell Tower
+* The tower originally belonged to the medieval Catholic St. George’s Church, built in the 13th century.
+* After the church was destroyed in 1689, the tower remained and was later restored.
+* Today, this former St. George’s tower serves as the bell tower for the Protestant Trinity Church (Dreifaltigkeitskirche) in Speyer.
+
 ![St. Georgen Turm](/images/StGeorgenTurm%20(Small).jpg)
 
 ### Picture of Cathedral
