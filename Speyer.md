@@ -284,6 +284,8 @@ feature_image: "/images/ZeitstrahlS.jpg"
 ### Domhof
 
 ### Stadthaus
+![Stadthaus](/images/Stadthaus.jpg)
+
 
 ### Sophie La Roche
 
@@ -302,7 +304,17 @@ feature_image: "/images/ZeitstrahlS.jpg"
 
 ### Old Gate / Altpörtel
 ![Altpörtel](/images/Alt-Poertel.jpg)
+
+
 #### Clocks
 
 #### Spire Foot
+
+### Fährmann
+* Nightly Summon of the Emperors - In October 1813, shortly after the Battle of Leipzig, five phantom emperors—believed to be the deceased Salian kings interred in Speyer Cathedral — are said to have risen from their tombs and called out across the Rhine to a sleeping ferryman, urging him to ferry them to help defend the German realm against Napoleon. 
+* Mysterious Crossing & Golden Tokens - The ferryman obeyed at midnight, transporting these regal apparitions across the river. Upon returning several nights later, he found gold coins bearing the emperors’ likenesses in his pocket—believed to be a "thank you" token from the companions he unknowingly ferried. 
+* Symbolic Remembrance via Sculpture - This romantic legend is commemorated by the 1987 bronze sculpture "Fährmann hol’ über" by Günther Zeuner, located in the cathedral garden. It portrays the ferryman and the emperors, immortalizing their nocturnal journey as a patriotic allegory of national salvation.
+
+![Fährmann](/images/Fährmann.jpg)
+
 
