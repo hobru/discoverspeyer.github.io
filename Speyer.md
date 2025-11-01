@@ -154,9 +154,9 @@ feature_image: "/images/ZeitstrahlS.jpg"
 * Simple, but majestic
 
 ![Dom Innen](/images/DomInnen%20(Small).jpg)
-![Dom Innen](images/Dom-Innen-Bilder.jpg)
-![Dom Innen](images/Dom-Innen-Oben-Bilder.jpg)
-![Dom Innen](images/Dom-Innen-Oben.jpg)
+![Dom Innen](/images/Dom-Innen-Bilder.jpg)
+![Dom Innen](/images/Dom-Innen-Oben-Bilder.jpg)
+![Dom Innen](/images/Dom-Innen-Oben.jpg)
 ![Dom Orgel](/images/Dom-Orgel.jpg)
 
 
@@ -288,7 +288,7 @@ feature_image: "/images/ZeitstrahlS.jpg"
 ### Sophie La Roche
 
 ### Jakobspilger
-![Pilger](images/Pilger.jpg)
+![Pilger](/images/Pilger.jpg)
 
 ### Georg der Drachentöter
 
@@ -301,7 +301,7 @@ feature_image: "/images/ZeitstrahlS.jpg"
 
 
 ### Old Gate / Altpörtel
-![Altpörtel](images/Alt-Poertel.jpg)
+![Altpörtel](/images/Alt-Poertel.jpg)
 #### Clocks
 
 #### Spire Foot
