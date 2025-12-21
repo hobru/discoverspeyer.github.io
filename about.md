@@ -32,6 +32,7 @@ Speyer - das Zentrum einer attraktiven Region
 * [Historischer Verein Speyer](http://historischer-verein-speyer.de/?page_id=225)
 * [Regionalgeschichte](https://www.regionalgeschichte.net/index.php?id=14974)
 * [Kurpfalzarchiv - Schiffsbrücke](https://www.kurpfalzarchiv.de/die-schiffsbruecke-von-speyer/)
+* [Stadtarchiv Speyer](https://www.stadtarchiv-speyer.findbuch.net/php/main.php)
 
 ### Cathedral
 * [Dom zu Speyer](https://www.dom-zu-speyer.de/)

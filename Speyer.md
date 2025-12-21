@@ -117,6 +117,7 @@ feature_image: "/images/ZeitstrahlS.jpg"
 * Depiction of Christ’s Agony: The Mount of Olives group shows Jesus praying in Gethsemane before his arrest, a powerful representation of his solitude and suffering.
 * Late-Gothic Masterpiece (ca. 1505–1512): Commissioned by the Speyer cathedral chapter in the early 1500s, initial work began around 1505–09 under sculptors Hans and Lienhard Seyfer (and possibly Nikolaus Elser), with final completion around 1512. 
 * Historical Resilience: Originally central to the cathedral cloister, this sculptural ensemble was largely destroyed in 1689 and again during the French Revolutionary era. It was later restored in the late 19th century, and today’s figures were reimagined by Speyer sculptor Gottfried Renn (1856), preserving the site's religious and artistic legacy.
+
 ![Ölberg](/images/Oelberg%20(Small).jpg)
 
 ### East Towers
@@ -313,7 +314,7 @@ feature_image: "/images/ZeitstrahlS.jpg"
 
 #### Clocks
 
-#### Spire Foot
+#### Spire Shoe
 
 ### Fährmann
 * Nightly Summon of the Emperors - In October 1813, shortly after the Battle of Leipzig, five phantom emperors—believed to be the deceased Salian kings interred in Speyer Cathedral — are said to have risen from their tombs and called out across the Rhine to a sleeping ferryman, urging him to ferry them to help defend the German realm against Napoleon. 
